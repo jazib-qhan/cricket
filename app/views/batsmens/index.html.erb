@@ -1,0 +1,27 @@
+<table border="1" bgcolor="white" bordercolor="green" width="500" height="100" p align="left">
+
+  <th align="left">Id<p align="center">&emsp;&emsp; &emsp;</th>
+  <th align="left"> Batsmens<p align="center">&emsp;</th>
+
+  <th align="left">created at<p align="center">&emsp;</th>
+  <th align="left">updated at<p align="center">&emsp;</th>
+
+
+
+
+
+
+   <%@batsmen.each do|batsmen| %>
+
+
+      <tr>
+   <td colspan="1" bgcolor=""> <%=batsmen.id%>  </td>
+   <td colspan="1"bgcolor=""> <%=batsmen.name%></td>
+        <td colspan="1" bgcolor=""> <%=batsmen.created_at%>  </td>
+        <td colspan="1" bgcolor=""> <%=batsmen.updated_at%>  </td>
+
+   </tr>
+         <%end%>
+
+
+    </table>

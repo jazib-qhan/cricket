@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails cricket: development" uuid="9a73090a-8ae0-4eb7-8550-f55fcc1d7403">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails cricket: test" uuid="dc8b53a9-e5a1-4077-b06d-dab85ee6d064">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails cricket: production" uuid="29d91521-bff3-4566-9fdb-14024b19ca8c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
